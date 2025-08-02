@@ -6,7 +6,7 @@ spring:
     name: user-service
 
 app:
-  message: Hello from Config Server
+  message: Aunty ke gaand mei lund dalna hai
 
 # You can add more shared configurations here if needed
 
