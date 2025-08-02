@@ -3,3 +3,5 @@ spring:
     url: jdbc:mysql://localhost:3306/userdb
     username: root
     password: secret
+  app:
+    message: Hello from User Service Config
