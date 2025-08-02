@@ -1,7 +1,12 @@
+server:
+  port: 8081
+
 spring:
-  datasource:
-    url: jdbc:mysql://localhost:3306/userdb
-    username: root
-    password: secret
-  app:
-    message: Hello from User Service Config
+  application:
+    name: user-service
+
+app:
+  message: Hello from Config Server
+
+# You can add more shared configurations here if needed
+
